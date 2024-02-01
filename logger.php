@@ -3,7 +3,7 @@ class Logger {
     private static function getDatabaseConnection() {
         // Replace these variables with your database connection details
         $servername = "localhost";
-        $username = "root";
+        $username = "";
         $password = "";
         $dbname = "canary";
 
